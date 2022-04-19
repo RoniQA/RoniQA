@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @RoniQA
 - 👀 I’m interested in ... Software tests
 - 🌱 I’m currently learning ... CTFL, Scrum, Kanban, BDD, Java, Selenium
-- 💞️ I’m looking to collaborate on ... QA tester
+- 💞️ I’m looking to collaborate on ... QA tester / QA Analyst
 - 📫 How to reach me ... ronierisoncosta@gmail.com
--                         https://www.linkedin.com/in/ronierison-costa-08744bb6/
+-                         https://www.linkedin.com/in/ronin-qa/
 
 <!---
 RoniQA/RoniQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
