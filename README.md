@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoniQA
 - 👀 I’m interested in ... Software tests
-- 🌱 I’m currently learning ... Java, CTFL, Scrum, Kanban, BDD, Selenium, Cucumber
+- 🌱 I’m currently learning ... Cypress
 - 💞️ I’m looking to collaborate on ... QA tester / QA Analyst
 - 📫 How to reach me ... ronierisoncosta@gmail.com
 -                         https://www.linkedin.com/in/ronin-qa/
