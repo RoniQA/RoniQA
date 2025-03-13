@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoniQA
-- 👀 I’m interested in ... Software tests
-- 🌱 I’m currently learning ... Katalon
+- 👀 I’m interested in ... Software Quality
+- 🌱 I’m currently learning ... API Automation
 - 💞️ I’m looking to collaborate on ... QA tester / QA Analyst
 - 📫 How to reach me ... https://www.linkedin.com/in/ronin-qa/
                      
