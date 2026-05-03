@@ -20,6 +20,7 @@
 ### 🔹 Mobile Test Automation
 <p>
   <img src="https://img.shields.io/badge/-Appium-662D91?logo=appium&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Robot%20Framework-000000?logo=robot-framework&logoColor=white&style=flat" />
 </p>
 
 ### 🔹 API & Non-Functional Testing
